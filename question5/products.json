@@ -1,0 +1,16 @@
+{
+  "bea4564b-3a72-4757-a850-4db4cb3137f6": {
+    "id": "bea4564b-3a72-4757-a850-4db4cb3137f6",
+    "name": "Wrist watch",
+    "price": "300",
+    "quantity": "70",
+    "image": "image_url.png"
+  },
+  "629401fa-dfa8-4f7d-8c30-95e2641ac96a": {
+    "id": "629401fa-dfa8-4f7d-8c30-95e2641ac96a",
+    "name": "Car",
+    "price": "3000000",
+    "quantity": "70",
+    "image": "image_url.png"
+  }
+}
